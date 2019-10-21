@@ -4,3 +4,4 @@
 ![AltText](https://github.com/Larasati11/JOBSHEETPBO2/blob/master/PBO2Lat3.png)
 ![AltText](https://github.com/Larasati11/JOBSHEETPBO2/blob/master/PBO2Lat4.png)
 ![AltText](https://github.com/Larasati11/JOBSHEETPBO2/blob/master/PBO2Prak1.png)
+![AltText](https://github.com/Larasati11/JOBSHEETPBO2/blob/master/PBO2Prak2.png)
